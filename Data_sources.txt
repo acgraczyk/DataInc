@@ -1,0 +1,17 @@
+Links to data sources:
+Canadian Census, used to acquire income/population data, and dissemination area shapefiles
+https://www12.statcan.gc.ca/census-recensement/2016/rt-td/inc-rev-eng.cfm
+
+Montreal Open Data, used to acquire route/line data (including shapefiles for metro stops) for Montreal
+http://donnees.ville.montreal.qc.ca/dataset/mtl-trajet/resource/1fa36506-3116-495b-9fd4-5fec978be65d
+
+Wiki on Toronto metro stations, used to scrape ridership data
+https://en.wikipedia.org/wiki/List_of_Toronto_subway_stations
+
+Unofficial data on Toronto metro, shapefiles (out of date)
+https://www.arcgis.com/home/item.html?id=077cf75f7fc24822afc5e3cb1e64590d
+
+Official data: bus/streetcar routes for Toronto (unused yet)
+https://mdl.library.utoronto.ca/collections/geospatial-data/toronto-transit-commission-ttc
+
+ 

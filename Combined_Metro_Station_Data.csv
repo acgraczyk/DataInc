@@ -1,0 +1,76 @@
+Lat,Long,Name,Line,Connection_Line,Opened[5],Ridership (2018[6] Avg. Weekday),Platforms,Parking Spaces[7],Terminal within fare-paid area,Transfers[8],Accessible
+43.66599176,-79.41158255,Bathurst,2,,1966,"26,900",Side,0,Yes,TTC streetcars TTC buses,Yes
+43.67040029,-79.39027029,Bay,2,,1966,"32,690",Centre,0,No,TTC buses,No
+43.76725222,-79.38739865,Bayview,4,,2002,"8,530",Centre,0,No,TTC buses,Yes
+43.76912679,-79.37672419,Bessarion,4,,2002,"2,990",Centre,0,No,TTC buses,Yes
+43.670672,-79.38595009,Bloor-Yonge,1,2,"1954, 1966","401,090","Side, Centre",0,No,TTC buses,Yes
+43.67686172,-79.35852385,Broadview,2,,1966,"32,670",Side,0,Yes,TTC streetcars TTC buses,Yes
+43.67414063,-79.36879416,Castle Frank,2,,1966,"9,760",Side,0,Yes,TTC buses,No
+43.67837735,-79.35141628,Chester,2,,1966,"5,800",Side,0,No,None,No
+43.66425178,-79.41869303,Christie,2,,1966,"12,510",Side,0,No,TTC buses,No
+43.66122997,-79.38278217,College,1,,1954,"44,370",Side,0,No,TTC streetcars TTC buses,No
+43.68414917,-79.32352724,Coxwell,2,,1966,"15,480",Side,0,Yes,TTC buses,Yes
+43.69812339,-79.39733141,Davisville,1,,1954,"25,990",Side,0,Yes,TTC buses,Yes
+43.77556464,-79.34693642,Don Mills,4,,2002,"37,050",Centre,366,Yes,TTC buses York Region Transit Viva Green,Yes
+43.68105008,-79.33792557,Donlands,2,,1966,"11,250",Side,0,Yes,TTC buses,No
+43.75005381,-79.46234274,Downsview Park,1,,2017,"2,520",Centre,0,No,TTC buses  Barrie,Yes
+43.6606651,-79.4359558,Dufferin,2,,1966,"28,620",Side,0,No,TTC buses,Yes
+43.65613653,-79.38072965,Dundas,1,,1954,"73,560",Side,0,No,TTC sreetcars TTC buses   Toronto CoachTerminal GreyhoundCoach CanadaOntario NorthlandPMCLMegabus,Yes
+43.65714206,-79.45267843,Dundas West,2,,1966,"27,540",Side,0,Yes,TTC streetcars TTC buses  Kitchener Union Pearson Express,Yes
+43.67490988,-79.40725667,Dupont,1,,1978,"8,500",Side,0,No,TTC buses,No
+43.70664584,-79.39915846,Eglinton,1,,1954,"68,520",Centre,0,Yes,TTC buses,Yes
+43.69899665,-79.43598953,Eglinton West,1,,1978,"21,430",Side,0,Yes,TTC buses,Yes
+43.76722615,-79.27731467,Ellesmere,3,,1985,"1,770",Side,68,No,TTC buses,No
+43.78149012,-79.41567261,Finch,1,,1974,"99,350",Centre,"3,214",Yes,TTC buses   Finch BusTerminal  York Region Transit Viva Blue Viva Pink GO Transit bus services,Yes
+43.7648,-79.4904,Finch West,1,,2017,"17,660",Centre,358[9],Yes,TTC buses,Yes
+43.70981996,-79.44152842,Glencairn,1,,1978,"6,940",Centre,0,No,TTC buses,No
+43.68270361,-79.33027644,Greenwood,2,,1966,"11,080",Side,0,Yes,TTC buses,No
+43.65459423,-79.46552962,High Park,2,,1968,"12,080",Side,0,No,TTC buses,No
+43.7832,-79.5237,Highway 407,1,,2017,"3,440",Centre,614[11],No,York Region Transit GO Transit bus servicesOntario Northland,Yes
+43.64595008,-79.52394798,Islington,2,,1968,"41,270",Centre,"1,282",Yes,TTC busesMiWay,No
+43.65029127,-79.48477178,Jane,2,,1968,"20,110",Side,0,No,TTC buses,Yes
+43.65570079,-79.46031548,Keele,2,,1966,"16,990",Side,221,Yes,TTC buses,No
+43.73211815,-79.26569845,Kennedy,2,3,"1980, 1985","111,190","Centre, Side (quasi-SS)","1,138",Yes,TTC buses  Stouffville,Yes
+43.64912088,-79.37804513,King,1,,1954,"64,730",Side,0,No,TTC streetcars TTC buses,No
+43.63802031,-79.53638812,Kipling,2,,1980,"49,340",Centre,"1,488",Yes,TTC buses  Milton,Yes
+43.65914292,-79.44296991,Lansdowne,2,,1966,"19,000",Side,0,No,TTC buses,No
+43.72542192,-79.40187758,Lawrence,1,,1973,"22,340",Centre,0,Yes,TTC buses,No
+43.7502148,-79.27090721,Lawrence East,3,,1985,"7,930",Side,90,Yes,TTC buses,No
+43.71638143,-79.44402915,Lawrence West,1,,1978,"19,740",Centre,0,Yes,TTC buses,Yes
+43.77113245,-79.36741635,Leslie,4,,2002,"5,990",Centre,102,Yes,TTC buses  Richmond Hill,Yes
+43.68891661,-79.30272876,Main Street,2,,1968,"23,950",Side,0,Yes,TTC streetcars TTC buses  Lakeshore East  Stouffville,Yes
+43.77551255,-79.25154339,McCowan,3,,1985,"3,860",Side,0,No,TTC buses,No
+43.77016839,-79.27248232,Midland,3,,1985,"2,440",Side,0,No,TTC buses,No
+43.66717707,-79.39350223,Museum,1,,1963,"11,840",Centre,0,No,TTC buses,No
+43.76924125,-79.4129116,North York Centre,1,,1987,"25,380",Side,0,No,TTC buses,Yes
+43.65057649,-79.49522499,Old Mill,2,,1968,"7,750",Side,0,No,TTC buses,No
+43.65087411,-79.38661732,Osgoode,1,,1963,"23,670",Centre,0,No,TTC streetcars TTC buses,Yes
+43.66266333,-79.42615682,Ossington,2,,1966,"30,100",Side,0,Yes,TTC buses,Yes
+43.67968493,-79.34520853,Pape,2,,1966,"27,080",Side,0,Yes,TTC buses,Yes
+43.7772,-79.5103,Pioneer Village,1,,2017,"17,320",Centre,"1,850[10]",Yes,TTC buses York Region Transit,Yes
+43.65234651,-79.3793265,Queen,1,,1954,"48,700",Side,0,No,TTC streetcars TTC buses,Yes
+43.65970495,-79.39034904,Queen's Park,1,,1963,"46,470",Centre,0,No,TTC streetcars TTC buses,Yes
+43.67690095,-79.38872589,Rosedale,1,,1954,"7,770",Side,0,Yes,TTC buses,No
+43.64880444,-79.51154051,Royal York,2,,1968,"22,800",Side,0,Yes,TTC buses,Yes
+43.65216695,-79.47649916,Runnymede,2,,1968,"20,110",Side,0,No,TTC buses,No
+43.77384411,-79.25786316,Scarborough Centre,3,,1985,"23,050",Side,0,Yes,TTC buses   ScarboroughCentre Bus Terminal  GO Transit bus servicesCan-arCoach CanadaGreyhoundMegabus,Yes
+43.7497,-79.4619,Sheppard West,1,,1996,"41,600",Centre,641,Yes,TTC buses York Region Transit,Yes
+43.76161811,-79.41098864,Sheppard-Yonge,4,1,"1974, 2002","125,470","Centre, Side(roughed-in SS)",0,Yes,TTC buses,Yes
+43.67234508,-79.37698161,Sherbourne,2,,1966,"31,030",Side,0,No,TTC buses,No
+43.66771459,-79.40375197,Spadina,1,2,"1978, 1966","44,560","Side, Side",0,Yes,TTC streetcars TTC buses,Yes No
+43.64764565,-79.38513048,St Andrew,1,,1963,"57,480",Centre,0,No,TTC streetcars TTC buses,Yes
+43.68816298,-79.39328435,St Clair,1,,1954,"36,620",Side,0,Yes,TTC streetcars TTC buses,Yes
+43.68435203,-79.41453588,St Clair West,1,,1978,"27,980",Side,0,Yes,TTC streetcars  TTC buses,Yes
+43.66831877,-79.39867229,St George,1,2,"1963, 1966","256,030","Centre, Centre",0,Yes,TTC buses,Yes
+43.65461164,-79.38829598,St Patrick,1,,1963,"34,060",Centre,0,No,TTC streetcars TTC buses,Yes
+43.68245,-79.39117824,Summerhill,1,,1954,"5,710",Side,0,No,TTC buses,No
+43.64572267,-79.38046226,Union,1,,1954,"143,640","Side, one-sided Centre",0,Yes,TTC streetcars TTC buses   Union Station   Lakeshore West  Lakeshore East  Milton  Kitchener  Barrie  Richmond Hill  Stouffville Union Pearson Express Canadian Corridor Maple Leaf   GO Transit bus services,Yes
+43.7942,-79.52575,Vaughan Metro Center,1,,2017,"14,790",Centre,900[a],No,York Region Transit Viva Orange Züm,Yes
+43.69432082,-79.29031894,Victoria Park,2,,1968,"30,780",Side,270,Yes,TTC buses,Yes
+43.71224201,-79.27898037,Warden,2,,1968,"39,980",Centre,"1,092",Yes,TTC buses,No
+43.66518294,-79.38377079,Wellesley,1,,1954,"23,510",Side,0,Yes,TTC buses,No
+43.73458062,-79.44992871,Wilson,1,,1978,"29,260",Centre,"2,284",Yes,TTC buses,No
+43.6863529,-79.31335711,Woodbine,2,,1966,"14,960",Side,0,Yes,TTC buses,Yes
+43.74499592,-79.40533068,York Mills,1,,1973,"29,660",Centre,260,Yes,TTC buses GO Transit bus services,Yes
+43.7739,-79.5,York University,1,,2017,"34,130",Centre,0,No,TTC buses Züm,Yes
+43.72481302,-79.44750946,Yorkdale,1,,1978,"22,860",Centre,0,No,TTC buses   Yorkdale BusTerminal  GO Transit bus servicesGreyhoundPMCLOntario Northland,No
